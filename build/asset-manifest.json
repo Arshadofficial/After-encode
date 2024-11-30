@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4204d580.css",
+    "main.js": "/static/js/main.0305e20f.js",
+    "static/media/ionos.webp": "/static/media/ionos.c4522ecb742ea9034943.webp",
+    "static/media/dreamhost.webp": "/static/media/dreamhost.b80dc01fa4a10e853434.webp",
+    "static/media/hiddencost.webp": "/static/media/hiddencost.83e072344fb3b03510e0.webp",
+    "static/media/logo.png": "/static/media/logo.77c9a5b868eb8eefa7c0.png",
+    "static/media/inmotionpone.webp": "/static/media/inmotionpone.35d736c73c74f7bcd80a.webp",
+    "static/media/dreahostprice.webp": "/static/media/dreahostprice.64f4e104f61d8660e937.webp",
+    "static/media/featursdream.webp": "/static/media/featursdream.f79587b983efbf72a9ed.webp",
+    "static/media/hostingeruptime.webp": "/static/media/hostingeruptime.8932e8f4a5527a6991c3.webp",
+    "static/media/hostgatorstars.webp": "/static/media/hostgatorstars.431703a7ca7398c33093.webp",
+    "static/media/pricing.webp": "/static/media/pricing.3c6e288afe6b6cb45368.webp",
+    "static/media/godadyfeatures.webp": "/static/media/godadyfeatures.7929640700d5a127eeab.webp",
+    "static/media/reliable.webp": "/static/media/reliable.ee35d4e13a5fafa44a08.webp",
+    "static/media/inmotion.webp": "/static/media/inmotion.3dec83a7cdf0b7f5f98f.webp",
+    "static/media/uptime.webp": "/static/media/uptime.9950351039e60d9626e6.webp",
+    "static/media/inmotionptwo.webp": "/static/media/inmotionptwo.0232583396e4b421ba71.webp",
+    "static/media/customer.webp": "/static/media/customer.92506dc8b9b852b5330e.webp",
+    "static/media/webrating.webp": "/static/media/webrating.af7acbf3c56d3498f3ed.webp",
+    "static/media/hostgator.webp": "/static/media/hostgator.3ddd5c5039ce15b88d83.webp",
+    "static/media/bluehost.webp": "/static/media/bluehost.b9d23d942b8bccf85acf.webp",
+    "static/media/hostinger.webp": "/static/media/hostinger.d10ab716716a79d378aa.webp",
+    "static/media/godady.webp": "/static/media/godady.9f1c9a110a67a5fce3dc.webp",
+    "index.html": "/index.html",
+    "static/media/ionoslogo.webp": "/static/media/ionoslogo.4ba21ae437f574b3eb31.webp",
+    "main.4204d580.css.map": "/static/css/main.4204d580.css.map",
+    "main.0305e20f.js.map": "/static/js/main.0305e20f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4204d580.css",
+    "static/js/main.0305e20f.js"
+  ]
+}
