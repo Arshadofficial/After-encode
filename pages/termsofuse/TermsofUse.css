@@ -1,0 +1,83 @@
+.termsofuse-container {
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333; 
+  }
+  
+  .termsofuse-container h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+  
+  .termsofuse-container h2 {
+    font-size: 25px;
+    margin-bottom: 10px;
+  }
+  
+  .termsofuse-container p {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .termsofuse-container ul {
+    margin: 0;
+    padding-left: 20px;
+  }
+  
+  .termsofuse-container li {
+    list-style: disc;
+    margin-bottom: 10px;
+  }
+
+  .terms-of-use-Main h1 {
+    font-size: 42px;
+    margin-bottom: 20px;
+    padding: 140px;
+    color: white;
+    font-weight: 500;
+  }
+
+  .termsofuse-container .meta {
+    font-size: 14px;
+    color: #777;
+    margin-bottom: 10px;
+  }
+  
+  .termsofuse-container a {
+    color: #007bff; /* Link color */
+    text-decoration: underline;
+  }
+  
+  
+  .termsofuse-container ul {
+    list-style: disc;
+    margin-left: 20px;
+  }
+  
+  @media screen and (max-width: 600px) {
+    .termsofuse-container {
+      padding: 10px;
+    }
+  
+    .termsofuse-container h1 {
+      font-size: 24px;
+    }
+  
+    .termsofuse-container h2 {
+      font-size: 20px;
+    }
+  
+    .termsofuse-container p {
+      font-size: 14px;
+      margin-bottom: 15px;
+    }
+  
+    .termsofuse-container ul {
+      margin-left: 15px;
+    }
+  }
+  
+
+  
